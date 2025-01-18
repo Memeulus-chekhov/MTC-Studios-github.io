@@ -1,3 +1,3 @@
 # MTC Studios
 
-#MTC Studios makes games
+MTC Studios makes games

@@ -2,7 +2,7 @@
 <html>
 
 </html>
-# MTC Studios
+MTC Studios
 
 MTC Studios makes games
 

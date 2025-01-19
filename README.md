@@ -3,7 +3,7 @@
 
 </html>
 
-MTC Studios
+<h1>MTC Studios</h1>
 
 
 MTC Studios makes games
